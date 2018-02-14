@@ -3944,7 +3944,7 @@ cite {
   -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
-  background-color: #1c1c1c;
+  background: none;
   z-index: 1;
 }
 

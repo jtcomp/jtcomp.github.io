@@ -3850,7 +3850,7 @@ template {
 body {
   font-family: "Lato", sans-serif;
   -webkit-font-smoothing: antialiased;
-  background-color: #262626;
+  background-color: #000000;
   margin: 0;
 }
 
@@ -3896,9 +3896,7 @@ cite {
 }
 
 .wrapper {
-  width: 1440px;
-  max-width: 90%;
-  margin: 0 auto;
+  margin: 0;
 }
 
 .flex-row {
@@ -3975,10 +3973,17 @@ cite {
   padding: 12rem 0 12rem 0;
 }
 
+.main_sub_headers {
+   text-align: center;
+  color: #ffffff; 
+}
+
 #banner .content .title, #banner .content .sub_title {
   text-align: center;
   color: #ffffff;
 }
+
+
 
 #banner .content .title {
   font-size: 3.5rem;
@@ -3990,7 +3995,6 @@ cite {
   font-size: 1.35rem;
   margin: 0 auto 2rem auto;
   line-height: 2.5rem;
-  font-style: italic;
 }
 
 .chapters {

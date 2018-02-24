@@ -1,0 +1,30 @@
+<div id="night_sky">
+
+{% include particle_underlay.html %}
+
+
+<div id="forest_cover"></div>
+
+</div>
+
+<style>
+
+    #forest_cover{
+        width: 100vw;
+        height: 156px;
+        z-index:10; 
+        position: absolute;
+        bottom: 0px;
+        background-image: url({{site.baseurl}}/assets/img/global/forestCropped.png);
+        background-repeat: repeat-x;
+    }
+    
+    #night_sky {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    background: linear-gradient(black, #0d001a);;
+}
+
+
+</style>

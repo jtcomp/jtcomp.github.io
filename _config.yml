@@ -1,11 +1,11 @@
 logo: # add logo name
-title: Bef - Enjoy Freedom
+title: Blog
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
-baseurl: "/bef" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
@@ -14,9 +14,9 @@ banner-title: # add banner title
 banner-desc: # add banner description
 
 # Author settings
-author-pic: face.jpg # your photo
-author-name: # your name
-about-author: # about author
+author-pic: profile.jpg # your photo
+author-name: John Compas
+about-author: Programmer, student and climber from the United States
 email: your-email@domain.com # your email
 phone: (496)-169-6557 # your pnone number
 website: https://dwayne.example.com # you website
@@ -41,6 +41,10 @@ analytics:
 # Paginate
 paginate: 12
 paginate_path: /page:num/
+
+#sass
+sass:
+  sass_dir: assets/css/sass
 
 # Build settings
 markdown: kramdown

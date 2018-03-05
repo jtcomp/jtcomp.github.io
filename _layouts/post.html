@@ -3,10 +3,14 @@ layout: default
 ---
 {% include header.html %}
 
+{% if post.categories contains 'Travel' %}
 <!--travel-->
 <div class="travel_map">
    {% include travel_interactive_map.html lat=page.lat lng=page.lng zoom=page.zoom %} 
 </div>
+{% endif %}
+
+
 
 
 

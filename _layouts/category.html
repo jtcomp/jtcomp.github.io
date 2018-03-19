@@ -1,0 +1,34 @@
+---
+layout: default
+---
+{% include header.html highlighted = page.category %}
+
+{% unless page.content == '' %}
+  <p>{{ page.content }}</p>
+{% endunless %}
+
+{% unless site.categories[page.category] %}
+  <p>No posts now!</p>
+{% endunless %}
+
+          <section class="chapters cf">
+        <div class="wrapper flex-row"> 
+    
+    {% for post in site.categories[page.category] limit:3%}
+  <div class="chapter">
+    <a href="{{post.url | prepend: site.baseurl}}">
+      {% if post.img %}
+      <img src={{ "/assets/img/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
+      {% endif %}
+    </a>
+    <div class="chapter_inner">
+      <p class="chapter_number">{{post.date | date: '%Y, %b %d'}}</p>
+      <h3 class="chapter_title">{{post.title}}</h3>
+    </div>
+  </div>
+{% endfor %}
+            </div>
+    </section>
+
+{% include footer.html %}
+    

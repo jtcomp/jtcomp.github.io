@@ -1,10 +1,21 @@
 
 <header class="main_header">
   <nav class="main_menu">
-    <a href="{{site.baseurl}}/">home</a>
-    <a href="{{site.baseurl}}/travel/">travel</a>
-    <a href="{{site.baseurl}}/projects/">projects</a>
-    <a href="{{site.baseurl}}/art/">art</a>
-    <a href="{{site.baseurl}}/about/">about</a>
+    <a id = "home" href="{{site.baseurl}}/">home</a>
+    <a id = "Travel" href="{{site.baseurl}}/category/travel/">travel</a>
+    <a id = "Projects" href="{{site.baseurl}}/category/projects/">projects</a>
+    <a id = "Art" href="{{site.baseurl}}/category/art/">art</a>
+    <a id = "about" href="{{site.baseurl}}/about/">about</a>
   </nav>
+    
+    <style>
+    
+    #{{include.highlighted}} {
+      font-weight: 900;
+        color: white; 
+    }
+    
+    </style>
+    
+    
 </header> <!-- End Section Header -->

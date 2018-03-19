@@ -9,21 +9,31 @@
         </h2>  
       
     <div class="content" id="overlay">
-      <h2 class="sub_title">
+      
+        <a href="{{site.baseurl}}/category/travel/">
+        <h2 class="sub_title">
         travel
         </h2>
+        </a>
         
+        <a href="{{site.baseurl}}/category/projects/">
         <h2 class="sub_title">
         projects
         </h2>
+          </a> 
         
+        <a href="{{site.baseurl}}/category/art/">
         <h2 class="sub_title">
         art
         </h2>
-        
+        </a>
+            
+            
+        <a href="{{site.baseurl}}/about/">
         <h2 class="sub_title">
         about
         </h2>
+  </a>  
     </div>
   </div>
 </section> 
@@ -33,8 +43,17 @@
 #banner {
      width: 100vw;
     height: 100vh;
-}    
-
+}
+    
+    #overlay a{
+        text-decoration: none;
+        color: #d0d0d0;
+    }
+    
+    #overlay a:hover h2 {
+        color: white;
+    }
+    
 #overlay {
     width: 100%;
     height: 100%;

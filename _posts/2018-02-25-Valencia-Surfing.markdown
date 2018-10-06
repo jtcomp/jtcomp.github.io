@@ -6,7 +6,7 @@ date: 2018-03-01 12:53:00 +0300
 lat: "39.466667"
 lng: "-0.375"
 zoom: 6
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: Surfing
 tag: [Travel]
 categories: Travel
 ---

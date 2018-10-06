@@ -151,6 +151,8 @@ GEM
       jekyll (~> 3.3)
     jekyll-watch (1.5.1)
       listen (~> 3.0)
+    jekyll_image_encode (0.0.4)
+      mimemagic (>= 0.2.0)
     jemoji (0.8.0)
       activesupport (~> 4.0)
       gemoji (~> 3.0)
@@ -164,6 +166,7 @@ GEM
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9.7)
     mercenary (0.3.6)
+    mimemagic (0.3.2)
     mini_portile2 (2.1.0)
     minima (2.0.0)
     minitest (5.11.3)
@@ -212,6 +215,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-paginate
   jekyll-sitemap
+  jekyll_image_encode
   therubyracer
   tzinfo-data
 

@@ -14,7 +14,7 @@ layout: default
           <section class="chapters cf">
         <div class="wrapper flex-row"> 
     
-    {% for post in site.categories[page.category] limit:3%}
+    {% for post in site.categories[page.category] %}
   <div class="chapter">
     <a href="{{post.url | prepend: site.baseurl}}">
       {% if post.img %}

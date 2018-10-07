@@ -17,9 +17,8 @@ banner-desc: # add banner description
 author-pic: profile.jpg # your photo
 author-name: John Compas
 about-author: Programmer, student and climber from the United States
-email: your-email@domain.com # your email
-phone: (496)-169-6557 # your pnone number
-website: https://dwayne.example.com # you website
+email: jcompas@wisc.edu # your email
+phone: (920) 397-5364 # your pnone number
 
 # Social link
 google_url:    # add url link
@@ -45,12 +44,14 @@ paginate_path: /page:num/
 #sass
 sass:
   sass_dir: assets/css/sass
+  style: compressed
 
 # Build settings
 markdown: kramdown
 plugins_dir:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-coffeescript
 
 include: [_pages]
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]

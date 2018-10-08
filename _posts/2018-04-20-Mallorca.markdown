@@ -12,17 +12,91 @@ categories: Travel
 ---
 Climbing and traveling in Mallorca.
 
-<script src="https://www.publicalbum.org/js/pa-embed-player.min.js" async></script>
-<div class="pa-embed-player" style="width:100%; height:1080px; display:none;"
-  data-link="https://photos.app.goo.gl/pgJrEE4VsMMEjk4M6"
-  data-title="Mal best"
-  data-descrition="5 new photos · Album by Tom Compas">
-  <img data-src="https://lh3.googleusercontent.com/hHfAyVr0-raH1ZruJjVwkoQ0Q8C48UOevGFDFdNfYXb-MLaI1Cx4tp0Udjn7pwfFiLP_n7y6pkRr_AqVUZK2fNAsDHlB9DQsqgxDkLSYukaUABh6JKOIiZdkaoPEjWxkhH6-PIDIYg=w3888-h2592" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/ZF1DgmWM9l-xwhL6SljJR1oq8Kp63LWTXQjSD0dfQIuE8QuXggu9PVHFghH4fAlkJU3gonpgiL9G_rDd1AxJaLmO4QLUZfGDdORPkkapHL_NGHN2epqi_WlhGwAAthJ28r0QwYnG8Q=w2592-h3888" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/PW3vxhobv6T1ZLPm08TrCXeBEldpGD7E_-dgOlJCKEqjvVF5OC1ECwL3mVLVjIczON-rkjuzjZGre_E04BVdA8ZYQ2DKM-YwPy9YawvrEwEUUlVawatqtgGxrR6Go4KA3NX_4sdl2A=w3888-h2592" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/GqGWaEAxJ7KCvu2gJW7v5rAgp84U2QgYXvG-8aqCh24ZDFvXbJkPkKCPATlasFtm0TWgf7EQ-FhEdO32wsLR_8bJkHQC3VflrdLU_ZLGarartUk3GEamkeu4h10HDcvcuoq8DNBZhw=w2875-h1539" src="" alt="" />
-  <img data-src="https://lh3.googleusercontent.com/vLBaEHb_GaQ5KkS9Rs7G6pehdG0KHtJDoUVPXFdjhMZM3Nmsw7x_7m2UGrLUSbsILMVdPf-qvdm5nGrYeBTOK5skBfczDmvCYlHCBQlSwE2EZ9ExXie8tfTS6E9X2fS1Qeo4CQIrBA=w2219-h3544" src="" alt="" />
+<img id="test" src=""/>
+
+<div id="prepopulated-fancybox">
+
 </div>
 
 
+<a id="Atest" data-fancybox="gallery" href=""><img id="imgTest" src=""></a>
 
+
+<script>
+
+var albumTag = 'AF1QipMBWCNKFSw2sRyIIg2u98PgEnWdtQ3q2CecXaDZs1nBLf4-udwGlztFjGWo4U-2ww?key=MFlJVDhPbGx0c0RNY1BBUTFPZU9vLWp4OUlVN2VR';
+
+var albumPhotoNumber = 5;
+
+// throw image URIs
+var collection ; 
+
+$.getJSON('http://www.whateverorigin.org/get?url=' + encodeURIComponent('https://photos.google.com/share/' + albumTag) + '&callback=?', function(data){
+
+var matches = [];
+let m;
+
+const regex = /\"https:\/\/lh3\.googleusercontent\.com\/[^<]+\"\>/gm;
+
+while ((m = regex.exec(data.contents)) !== null) {
+    // This is necessary to avoid infinite loops with zero-width matches
+    if (m.index === regex.lastIndex) {
+        regex.lastIndex++;
+    }
+    
+    matches.push(m);
+    
+    // The result can be accessed through the `m`-variable.
+    m.forEach((match, groupIndex) => {
+        console.log(`Found match, group ${groupIndex}: ${match}`);
+    });
+}
+
+    
+    var imagesNumber = matches.length;
+    
+    //for all images
+    
+    for(var i = 0 ; i < imagesNumber ; i++) {
+    
+        var CleanURLRegex = /(https[^">=]+)/;
+        var URL = matches[i].match(CleanURLRegex);
+    
+        var h = 200;
+        var w = 200;
+        
+        //Properly format URLs
+        
+        if (URL != null) {
+            if (URL.length > 0) {
+            URL = URL[0];
+            }
+            var appendHTML = '<a data-fancybox="gallery" href="'+URL+"=w"+w*4+"-h"+h*4+'-p-k"><img src="'+URL+"=w"+w+"-h"+h+'-p-k"></a>\n';
+    
+            $( "#prepopulated-fancybox" ).append(appendHTML);
+        }
+        
+
+    }
+    
+    
+    
+    var CleanURLRegex = /(https[^">=]+)/;
+    var URL = matches[0].match(CleanURLRegex);
+    
+    var h = 200;
+    var w = 200;
+    
+    $("#test").attr("src",URL[0]+"=w"+w+"-h"+h+"-p-k");
+    
+    $("#imgTest").attr("src",URL[0]+"=w"+w+"-h"+h+"-p-k");
+    
+    $("#Atest").attr("href",URL[0]+"=w"+w*4+"-h"+h*4+"-p-k");
+    
+    
+    
+    
+});
+
+
+</script>

@@ -19,13 +19,13 @@ function readFiles(dirname, onFileContent, onError) {
     filenames.forEach(function(filename) {
 		console.log("FILE:\t" + filename);
 		
-		var linksToParse = fs.readFileSync(dirname + "/" + filename).toString().split("\n").filter(line => line.startsWith("--autogen--album--"));
+		var linksToParse = fs.readFileSync(dirname + "/" + filename).toString().split("\n").filter(line => line.startsWith("<!–autogen--album--"));
 		
 		
 		
 		linksToParse.forEach(function(linkToParse) {
-			var linkURL = linkToParse.replace("--autogen--album--", "");
-			var linkURL = linkURL.replace("--album--end--", "");
+			var linkURL = linkToParse.replace("<!–autogen--album--", "");
+			var linkURL = linkURL.replace("--album--end->", "");
 			console.log("PARSE:\t" + linkURL);
 			
 			scraperParser(linkURL).then(function(resultURLS) {
@@ -36,7 +36,9 @@ function readFiles(dirname, onFileContent, onError) {
 				  if (err) {
 					return console.log(err);
 				  }
-				  var result = data.replace(/--autogen--album--https:\/\/.+--album--end--/g, html);
+				  var result = data.replace(/<!–autogen--album--https:\/\/.+--album--end->/g, 
+											
+											"<!–autogenned--album--" + linkURL + "--album--end->\n" + html);
 
 				  fs.writeFile(dirname + "/" + filename, result, 'utf8', function (err) {
 					 if (err) return console.log(err);

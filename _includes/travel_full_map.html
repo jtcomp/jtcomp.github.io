@@ -19,13 +19,15 @@
 {% if post.lat %}
         LatLangs.push(new google.maps.LatLng({{post.lat}},{{post.lng}}));
 {% endif %}
-        Names.push("{{post.title}}");        
+        Names.push("{{post.title}}");  
+ 		LinkURLS.push("{{post.url | prepend: site.baseurl}}")
 {% endfor %}
         
         for (var i = 0 ; i < LatLangs.length;i++) {
             new google.maps.Marker({
             position: LatLangs[i],
             map: map,
+			url: LinkURLS[i], 
             label: {
                 color: 'white',
                 fontWeight: 'bold',

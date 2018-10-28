@@ -25,7 +25,7 @@
 {% endfor %}
         
         for (var i = 0 ; i < LatLangs.length;i++) {
-            new google.maps.Marker({
+            var marker = new google.maps.Marker({
             position: LatLangs[i],
             map: map,
 			url: LinkURLS[i], 
@@ -39,15 +39,19 @@
                 url: 'data:image/svg+xml;charset=UTF-8,' + encodeURIComponent(svg), scaledSize: new google.maps.Size(40, 40) 
             },
             optimized: false
-            }).setMap(map);
+            }).addListener('click', function() {
+    			window.location.href = this.url;
+			});
+
         }
+ 
+ 		
     }
 
 
 </script>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD3k44raRshIQGklzjaXaKF-UNswRbInwE&callback=initMap"
         async defer></script>
-<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false&v=3&libraries=geometry"></script>
 
 <style>
 

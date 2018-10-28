@@ -1,38 +1,37 @@
-const rp = require('request-promise');
+
 const cheerio = require('cheerio');
-const options = {
-  uri: `https://photos.google.com/share/AF1QipMBWCNKFSw2sRyIIg2u98PgEnWdtQ3q2CecXaDZs1nBLf4-udwGlztFjGWo4U-2ww?key=MFlJVDhPbGx0c0RNY1BBUTFPZU9vLWp4OUlVN2VR`,
-  resolveWithFullResponse: true,
-  transform: function (body) {
-    return cheerio.load(body);
+
+var webdriver = require('selenium-webdriver');
+
+var chromeCapabilities = webdriver.Capabilities.chrome();
+
+// add the desired options
+var chromeOptions = {'args': ['--test-type', '--incognito', '--disable-impl-side-painting']};
+chromeCapabilities.set('chromeOptions', chromeOptions);
+
+
+(async function example() {
+  try {
+	let driver = await new webdriver.Builder().forBrowser('chrome').withCapabilities(chromeCapabilities).build();
+    await driver.get('https://photos.app.goo.gl/jmHuq4vynR1Co4xW6');
+    await driver.findElements(webdriver.By.className('RY3tic')).then(function(elementsList) {
+		console.log("Found Elements:" + elementsList)
+	
+		elementsList.forEach( function(element) {
+			console.log(element) ; 
+		
+			 element.getCssValue('background-image').then( function(attribute) {
+    			console.log(attribute) ;
+			}).catch( function(reason) {
+				console.log("ERROR" + reason);
+			});
+			
+		}); 
+	
+		});
+	await driver.quit();
+  } finally {
   }
-};
-
-rp(options)
-  .then(($) => {
-	/*
-    console.log("SCRAPED RESULTS");
-    console.log($('.cL5NYb').text());
-    console.log("Number of Links : " + $(".yKzHyd").length);
-    console.log("Number of Images : " + $(".RY3tic").length);
-    console.log($('.RY3tic').html());
-    console.log($('.yKzHyd').html());*/
-    
-    console.log($.html());
-    
-    
-    $('div').each(function(i, elem) {
-        var backgroundImage = $(elem).attr('data-latest-bg');
-        if (backgroundImage != undefined) {
-            console.log(backgroundImage);
-            console.log("\n\n");
-        } 
-        
-    });
-  })
-  .catch((err) => {
-    console.log(err);
-  });
-
+})();
 
 

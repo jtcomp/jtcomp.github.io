@@ -4,9 +4,9 @@
         var myLatLng = {lat: -25.363, lng: 131.044};
 
         map = new google.maps.Map(document.getElementById('map'), {
-            zoom: 2,
-            center: new google.maps.LatLng(-33.92, 151.25),
-            minZoom: 2,
+            zoom: 3,
+            center: new google.maps.LatLng(0, 0),
+            minZoom: 3,
             backgroundColor: 'black',
             disableDefaultUI: true,
             styles: [

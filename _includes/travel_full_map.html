@@ -18,9 +18,10 @@
 {% for post in site.categories.Travel %}
 {% if post.lat %}
         LatLangs.push(new google.maps.LatLng({{post.lat}},{{post.lng}}));
+ 		Names.push("{{post.title}}");  
+ 		LinkURLS.push("{{post.url | prepend: site.baseurl}}");
 {% endif %}
-        Names.push("{{post.title}}");  
- 		LinkURLS.push("{{post.url | prepend: site.baseurl}}")
+
 {% endfor %}
         
         for (var i = 0 ; i < LatLangs.length;i++) {

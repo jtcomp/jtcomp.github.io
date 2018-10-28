@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Red Rocks"
+img: https://lh3.googleusercontent.com/a1bQ5SzKO8sjuX98RyhMMvgD7QG8m18NZVZCyzcItmIrHWvx-zY8Q8NANzvVpAplDxzY0eipbWArubptqdXCkI10KPk9zANVyOFN7efDoixj_a0LTgmC3BJzpxIw45lKNhcXpR9TyQ
+googlePhotoUrl: true
+date: 2016-04-25 12:53:00 +0300
+lat: "36.135"
+lng: "-115.428" 
+zoom: 6
+description: "Red Rocks Spring Break Trip"
+tag: [Travel]
+categories: Travel
+---
+A few photos from the trip I took with the Hoofer Mountaineering Club in 2016.
+
+{% comment %}
+  <!–-autogenned--album--https://photos.google.com/share/AF1QipOK8zpPbw7IGFFHjykT1Igzh2wiygg5TykjCQlONUb0lQpKxzP_wMJDrTztuL7_Tw?key=VkhiaEwyT0J6cHhETC1tVmNNVEZBTmNIUTRON053--album--end-->
+{% endcomment %}
+
+
+
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/a1bQ5SzKO8sjuX98RyhMMvgD7QG8m18NZVZCyzcItmIrHWvx-zY8Q8NANzvVpAplDxzY0eipbWArubptqdXCkI10KPk9zANVyOFN7efDoixj_a0LTgmC3BJzpxIw45lKNhcXpR9TyQ"><img src="https://lh3.googleusercontent.com/a1bQ5SzKO8sjuX98RyhMMvgD7QG8m18NZVZCyzcItmIrHWvx-zY8Q8NANzvVpAplDxzY0eipbWArubptqdXCkI10KPk9zANVyOFN7efDoixj_a0LTgmC3BJzpxIw45lKNhcXpR9TyQ=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/lMb5kTInItUtt08GzxdAw9WFTFjpa7VG_jdh1tWSAOdBnf9P-jr59UeQQseKTFNA5IneOx4vVIxQg31DOi1y-FSK0QYaQRWNv8Zt4FmyN9pzvQ4nicYiVOe2OaZEugPcnP2ghPLcAw"><img src="https://lh3.googleusercontent.com/lMb5kTInItUtt08GzxdAw9WFTFjpa7VG_jdh1tWSAOdBnf9P-jr59UeQQseKTFNA5IneOx4vVIxQg31DOi1y-FSK0QYaQRWNv8Zt4FmyN9pzvQ4nicYiVOe2OaZEugPcnP2ghPLcAw=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/yx8roLuz8zbklhIAdgSLco7KRr2Y48nWKQbC08h9FQ930sxiGha9aUVm9P9gcLnHNfbG17YUNmPHWO4XphWfffy8ToJ9FoGtLj17xB0UooLycbhaSKb1jL4S6ltFoEujtWacB4nYJA"><img src="https://lh3.googleusercontent.com/yx8roLuz8zbklhIAdgSLco7KRr2Y48nWKQbC08h9FQ930sxiGha9aUVm9P9gcLnHNfbG17YUNmPHWO4XphWfffy8ToJ9FoGtLj17xB0UooLycbhaSKb1jL4S6ltFoEujtWacB4nYJA=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/pSKQGrg_SGjJj-JlwCdjq6GF8eYiXz-u-DJC2zPC_ujgRjswBJAHVShVgZiEM24jn5RtTXqWDJ3z7h9GpTDAfWaPr0Vh7zqiNZ9yvqvBKPPwLXVPbcE1vfBVDvEG0VxMrbCB3lNhuA"><img src="https://lh3.googleusercontent.com/pSKQGrg_SGjJj-JlwCdjq6GF8eYiXz-u-DJC2zPC_ujgRjswBJAHVShVgZiEM24jn5RtTXqWDJ3z7h9GpTDAfWaPr0Vh7zqiNZ9yvqvBKPPwLXVPbcE1vfBVDvEG0VxMrbCB3lNhuA=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/ndW7D03QipsyKrqAXr2p2Fz0uIKFQ-HgdnhVUNIOIPz89N6hRtHIoGwAEbssr1NYimXJyBW0YpWs_jCv2_EjBFznRmHVqoHLoCu6v3H3QBNcBhsH-OZsNp9nfdflemYAFub-tG06Vg"><img src="https://lh3.googleusercontent.com/ndW7D03QipsyKrqAXr2p2Fz0uIKFQ-HgdnhVUNIOIPz89N6hRtHIoGwAEbssr1NYimXJyBW0YpWs_jCv2_EjBFznRmHVqoHLoCu6v3H3QBNcBhsH-OZsNp9nfdflemYAFub-tG06Vg=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/bKQu1ZH8JPor3aYvDjusICymaesjhaWoHY4BJw7Kxf2LLPAXDHcTl3uooZ8nhyiUrmdpPc9SStdF21NIDAqhDH_aoCD0WwcPacCjKpknuXRdpTsDLFLa1DMZDGy0BHEWDkHC8kbVJw"><img src="https://lh3.googleusercontent.com/bKQu1ZH8JPor3aYvDjusICymaesjhaWoHY4BJw7Kxf2LLPAXDHcTl3uooZ8nhyiUrmdpPc9SStdF21NIDAqhDH_aoCD0WwcPacCjKpknuXRdpTsDLFLa1DMZDGy0BHEWDkHC8kbVJw=w200-h200"></a>

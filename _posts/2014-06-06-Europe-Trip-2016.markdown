@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Europe Tour"
+img: https://lh3.googleusercontent.com/UMIgeRjL3fySi8bc1pIPGWn8JJv9yQ4jRC0soQXKqp3d1KwQm1XdHSmrEghCWCY9iGXsCp_bVtSQl12csr1WLhcRU9EQ0334hSfEn_0xdrWsBSH3DPqKeU879GyTfDaMqgCxsNxylA=w2688-h1520
+googlePhotoUrl: true
+date: 2016-04-25 12:53:00 +0300
+lat: "45.4408"
+lng: "12.3155" 
+zoom: 6
+description: "Europe 2015"
+tag: [Travel]
+categories: Travel
+---
+
+{% comment %}<!–autogenned--album--https://photos.google.com/share/AF1QipOYm0qGfdM6IjX9v6TV0dyCiIy9n-uBHpAYw8Ftk3e418uyC9atoKckfJk-viUm-w?key=dHlZdkZYdkFtaUUwbERBUWxXZE5QUkhuSHdzZ3VB--album--end->
+{% endcomment %}
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/UMIgeRjL3fySi8bc1pIPGWn8JJv9yQ4jRC0soQXKqp3d1KwQm1XdHSmrEghCWCY9iGXsCp_bVtSQl12csr1WLhcRU9EQ0334hSfEn_0xdrWsBSH3DPqKeU879GyTfDaMqgCxsNxylA=w2688-h1520"><img src="https://lh3.googleusercontent.com/UMIgeRjL3fySi8bc1pIPGWn8JJv9yQ4jRC0soQXKqp3d1KwQm1XdHSmrEghCWCY9iGXsCp_bVtSQl12csr1WLhcRU9EQ0334hSfEn_0xdrWsBSH3DPqKeU879GyTfDaMqgCxsNxylA=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/SlomnpeO8CNiWIWhxAP2gqBw6pJCP2MY7b4flm_l5FXhw7hVojDdFIwWLHcEZDA6Y2TjIfw4iduh7Fz3dsMNJg9B0W4Y5WprASronHyYVln6s2p2u467CTeOygRAbJ4FK1MQmoMuYA=w2688-h1520"><img src="https://lh3.googleusercontent.com/SlomnpeO8CNiWIWhxAP2gqBw6pJCP2MY7b4flm_l5FXhw7hVojDdFIwWLHcEZDA6Y2TjIfw4iduh7Fz3dsMNJg9B0W4Y5WprASronHyYVln6s2p2u467CTeOygRAbJ4FK1MQmoMuYA=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/OUvyaWDRQ0DhrlpjFOqwVQJV6hwpdaaKnwOreao4HSbRPA0ZklY24a9gxWEuc6BV3HyDKHBWQBb6GL1NrkqEC6tKHlwmqiCUunzuS1Cq39gpzUaGlIb1aWNmXvApMCShp41plYaQSQ=w2374-h1520"><img src="https://lh3.googleusercontent.com/OUvyaWDRQ0DhrlpjFOqwVQJV6hwpdaaKnwOreao4HSbRPA0ZklY24a9gxWEuc6BV3HyDKHBWQBb6GL1NrkqEC6tKHlwmqiCUunzuS1Cq39gpzUaGlIb1aWNmXvApMCShp41plYaQSQ=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/9zEXjzAa5F5qkQBKKeoeh5Iht4MFtca5MnZMUGKDGuEbamIb3gQQflj13tMHoAaMCce0hPG0kvlZtHN7FGIfAI8t4mvjPSoLJAC7DX9OMrDNACxwK9pwQhofLZRPeLIVkQbeRUhLUw=w2688-h1520"><img src="https://lh3.googleusercontent.com/9zEXjzAa5F5qkQBKKeoeh5Iht4MFtca5MnZMUGKDGuEbamIb3gQQflj13tMHoAaMCce0hPG0kvlZtHN7FGIfAI8t4mvjPSoLJAC7DX9OMrDNACxwK9pwQhofLZRPeLIVkQbeRUhLUw=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/UJ6wPZmGhqzPgTFqqz4sRO9DkP-9vNL4_nXctmFKMJ58ic7CeGvfhNe9DTlwVLN5wk-apWkvRiMosCvWTPDeM0lJLqQB5SxNs9KKMspWVjlHrwAp0coQqygrGfI8Bvx4Qe2cy_kTWw=w1520-h1620"><img src="https://lh3.googleusercontent.com/UJ6wPZmGhqzPgTFqqz4sRO9DkP-9vNL4_nXctmFKMJ58ic7CeGvfhNe9DTlwVLN5wk-apWkvRiMosCvWTPDeM0lJLqQB5SxNs9KKMspWVjlHrwAp0coQqygrGfI8Bvx4Qe2cy_kTWw=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/oniVuChSiveUmcPfA_F1z7FtjsqJe8Qn08ug8k5zHS5mRUhALz8ZE-G5SSddGfhQQTVEq7KC5oNH7RPMt3SqULZp6S7gN1efr6l4QMS9GRms5Hz65NAI5IN4qog0_qwaz-Sby6qGcw=w2688-h1520"><img src="https://lh3.googleusercontent.com/oniVuChSiveUmcPfA_F1z7FtjsqJe8Qn08ug8k5zHS5mRUhALz8ZE-G5SSddGfhQQTVEq7KC5oNH7RPMt3SqULZp6S7gN1efr6l4QMS9GRms5Hz65NAI5IN4qog0_qwaz-Sby6qGcw=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/dsRFutLn5uzYHL3y_X6VPNsKhCtQ2V62go2--B0J2zPnXBMneMTY1QwdXfVZSJdYDMg8N9HRMnGi-bjb1zXwqmjTzzNVgrvaHMk-P2ENT_Ay7n5_7AbtXE24WpipSMl4B2Ftwh6oaA=w2688-h1520"><img src="https://lh3.googleusercontent.com/dsRFutLn5uzYHL3y_X6VPNsKhCtQ2V62go2--B0J2zPnXBMneMTY1QwdXfVZSJdYDMg8N9HRMnGi-bjb1zXwqmjTzzNVgrvaHMk-P2ENT_Ay7n5_7AbtXE24WpipSMl4B2Ftwh6oaA=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/cmZjSO27bd4IVmCXFG2mLZtBlUtvxvMfeSdHhgQyY1Q0f7abHLkKlNSmiAfod_i-thnURwcRiKmHKEbImUJg78ovaC9a-KuNdQADKmRNO1Ra-KFaRjXS8t3khwZLYGLJn8hREH1IYQ=w1116-h1856"><img src="https://lh3.googleusercontent.com/cmZjSO27bd4IVmCXFG2mLZtBlUtvxvMfeSdHhgQyY1Q0f7abHLkKlNSmiAfod_i-thnURwcRiKmHKEbImUJg78ovaC9a-KuNdQADKmRNO1Ra-KFaRjXS8t3khwZLYGLJn8hREH1IYQ=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/qtPg5HkXqUdg4rWMz8HIiwq__KOItKCfl2NmUvIlA5eTdEg1gqWrYmL1mVDeFiVjtO0rLAfGnzRKqaJ0YzNOmm52eGNDHmOPKK8GgZym1wFjjFnQOBq0rs3dsh2tAB_HjubI6ZvpZA=w2688-h1232"><img src="https://lh3.googleusercontent.com/qtPg5HkXqUdg4rWMz8HIiwq__KOItKCfl2NmUvIlA5eTdEg1gqWrYmL1mVDeFiVjtO0rLAfGnzRKqaJ0YzNOmm52eGNDHmOPKK8GgZym1wFjjFnQOBq0rs3dsh2tAB_HjubI6ZvpZA=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/W7oATvXITwN-BCGuSmnMr4SBc4JlDIs947ZyvUpO2OZmI8akmjrXJFimuHsPew50sGlsh9n_G-dv37se9a2VW38ijzUxff-nEKhmERMXsXxaYFs5v_dTARWcpdu70TzTRNJyH1o-LA=w952-h1364"><img src="https://lh3.googleusercontent.com/W7oATvXITwN-BCGuSmnMr4SBc4JlDIs947ZyvUpO2OZmI8akmjrXJFimuHsPew50sGlsh9n_G-dv37se9a2VW38ijzUxff-nEKhmERMXsXxaYFs5v_dTARWcpdu70TzTRNJyH1o-LA=w200-h200"></a>
+

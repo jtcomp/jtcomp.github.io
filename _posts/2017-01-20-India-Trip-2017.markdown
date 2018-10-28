@@ -1,0 +1,31 @@
+---
+layout: post
+title: "India & Nepal Trekking"
+img: https://lh3.googleusercontent.com/PdHKDVjNJKgZFPumGYJ-VzLPNdjwN1vTQfGnEPB2JKdfECwpjVRuGHvWIA6enMCBvU9X8Cp77476MDU2VzrOA8g7PTD02dBNexGkV-G9WeLhf48fNQ3T5v72fUOp3MlXW9MWl1UIKw
+googlePhotoUrl: true
+date: 2017-01-20 12:53:00 +0300
+lat: "28.7041"
+lng: "77.2167" 
+zoom: 6
+description: "India Trip of Winter Break 2017"
+tag: [Travel]
+categories: Travel
+---
+
+Photos from my trek in Nepal and India near Kangchenjunga, and then from the friend's sister's wedding I attended in 
+
+{% comment %}<!–autogenned--album--https://photos.google.com/u/0/share/AF1QipNDKXv0YSTc-Qo91EykQTYifrZwwrpz6PQxS1HUp5Mhpd3XtVWmPPMMsAnDlVuLng?key=VmZsWmJ3MGJ2VnVmZUdxYTMtUS1wVTAxUTg0UmJ3--album--end->
+{% endcomment %}
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/6LJPt9YaEUpRzCpUYp8jF6RA7jEOYP7LVInZn9qlL-9BmL_pQoHYtZeO1bapdzOLk9eNPVnD2xwt56c2KeQh6o5pxcmzzFzA0Cv0W29O0bjkHuKAanACf-OViX-3wIjkb6DgOgXHKw=w4032-h3024"><img src="https://lh3.googleusercontent.com/6LJPt9YaEUpRzCpUYp8jF6RA7jEOYP7LVInZn9qlL-9BmL_pQoHYtZeO1bapdzOLk9eNPVnD2xwt56c2KeQh6o5pxcmzzFzA0Cv0W29O0bjkHuKAanACf-OViX-3wIjkb6DgOgXHKw=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/PdHKDVjNJKgZFPumGYJ-VzLPNdjwN1vTQfGnEPB2JKdfECwpjVRuGHvWIA6enMCBvU9X8Cp77476MDU2VzrOA8g7PTD02dBNexGkV-G9WeLhf48fNQ3T5v72fUOp3MlXW9MWl1UIKw=w4032-h3024"><img src="https://lh3.googleusercontent.com/PdHKDVjNJKgZFPumGYJ-VzLPNdjwN1vTQfGnEPB2JKdfECwpjVRuGHvWIA6enMCBvU9X8Cp77476MDU2VzrOA8g7PTD02dBNexGkV-G9WeLhf48fNQ3T5v72fUOp3MlXW9MWl1UIKw=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/PASD06LkpOdv5-6NfH2GBKcj1AODemmt6lmVMoTStQNerh-bB5gthkRGCAnE0LJHl_aVWRdkVR_SHw6TLegW-Wbu7Lf0eBFp3u_7ZA_FBbnM2YPJc-lNp4guGE33MlY9-S-hcctmIg=w3024-h4032"><img src="https://lh3.googleusercontent.com/PASD06LkpOdv5-6NfH2GBKcj1AODemmt6lmVMoTStQNerh-bB5gthkRGCAnE0LJHl_aVWRdkVR_SHw6TLegW-Wbu7Lf0eBFp3u_7ZA_FBbnM2YPJc-lNp4guGE33MlY9-S-hcctmIg=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/hjU9LVRu9ANMNl6L4bucm3z5kyKukLmkbwMi3FKrzwq8N8wFiAZzQPKvEmOM5klP5AakqUfO9jmAhCpyuk8y06F8AxNksmaE5KjZ9xj_AeTdHE8qv5-ABb1jBBweOHewB3ozYHKoAA=w3024-h4032"><img src="https://lh3.googleusercontent.com/hjU9LVRu9ANMNl6L4bucm3z5kyKukLmkbwMi3FKrzwq8N8wFiAZzQPKvEmOM5klP5AakqUfO9jmAhCpyuk8y06F8AxNksmaE5KjZ9xj_AeTdHE8qv5-ABb1jBBweOHewB3ozYHKoAA=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/_Mjb2NTYvhpO6_v5cqLFio7zVnPihNqtRq7V1F9VUrEYjD5CIHG0xE0u9xFpPi5mw1btCgCiolavA9QB2JxkQG8ikrb9BeXbq85qQuNCNzQTfEPTU7C_kr02tyzcja1iyX0geJLClQ=w4032-h3024"><img src="https://lh3.googleusercontent.com/_Mjb2NTYvhpO6_v5cqLFio7zVnPihNqtRq7V1F9VUrEYjD5CIHG0xE0u9xFpPi5mw1btCgCiolavA9QB2JxkQG8ikrb9BeXbq85qQuNCNzQTfEPTU7C_kr02tyzcja1iyX0geJLClQ=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/xXIrLpraYR-cq9-MzM7LS4ESA-pwVNYCfMKtckfWbWJFSkDTvqXMx6jFnUndJzdkNxf7DadwJz_xHkOf85Rcn2RrFPSRQXDLTbtSvJh-s6DYZvePBOJRin10yJUhnMgttSP7DbL1sg=w3024-h4032"><img src="https://lh3.googleusercontent.com/xXIrLpraYR-cq9-MzM7LS4ESA-pwVNYCfMKtckfWbWJFSkDTvqXMx6jFnUndJzdkNxf7DadwJz_xHkOf85Rcn2RrFPSRQXDLTbtSvJh-s6DYZvePBOJRin10yJUhnMgttSP7DbL1sg=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/IPAQRC0VZCLpuSEsAbsnhB7mBcr99PdGn5ZpUi0p3CnDQHSW2pdtB7rRsBPyHTCXBvG3OV2ZdFbz_GObDkic8ntGkjB_vhnN5ZiJSJX156IKavp-UxgQHQO9UCdMstCTl8qFRV7oSg=w4032-h3024"><img src="https://lh3.googleusercontent.com/IPAQRC0VZCLpuSEsAbsnhB7mBcr99PdGn5ZpUi0p3CnDQHSW2pdtB7rRsBPyHTCXBvG3OV2ZdFbz_GObDkic8ntGkjB_vhnN5ZiJSJX156IKavp-UxgQHQO9UCdMstCTl8qFRV7oSg=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/EmxGx8NOxh0X9kpsOiKVICI_QiOm1tAMjNarLZ7WwNYlJ10kIkogVN4qvvVaTnAI85V50Pl-RKlUAp90-T5wY7rQMkfeTwUnyw5niLv3HEjQW7BarftDC3sv8lezyclCFJ5bnbFt9g=w4032-h3024"><img src="https://lh3.googleusercontent.com/EmxGx8NOxh0X9kpsOiKVICI_QiOm1tAMjNarLZ7WwNYlJ10kIkogVN4qvvVaTnAI85V50Pl-RKlUAp90-T5wY7rQMkfeTwUnyw5niLv3HEjQW7BarftDC3sv8lezyclCFJ5bnbFt9g=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/CHMGPdAV-zeBtnoGClqvHC8LHXf3cc1VW2I6Y25DyK9pGVA_Z9el4Zw0DTlEVTS_1VMLi-k4bONTQgXCPa4VW9Dnf9WympiKUYvF1lU5TTkrqasG3uYfqjVqMqWiHsMeqaew3KCf-w=w3024-h4032"><img src="https://lh3.googleusercontent.com/CHMGPdAV-zeBtnoGClqvHC8LHXf3cc1VW2I6Y25DyK9pGVA_Z9el4Zw0DTlEVTS_1VMLi-k4bONTQgXCPa4VW9Dnf9WympiKUYvF1lU5TTkrqasG3uYfqjVqMqWiHsMeqaew3KCf-w=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/B_ROORlyG-eB9doDX1YIp6urKLeGyhb4Lv5yKS3sQouf4qGaJ35bkIREYvY7eNizFQToVLCi6sjWsmzTb2KXOj-yl8Ya6ROoBG-s8dK4Yaodiza9QL6Bi2adBYHceNnwihlsz0e4Xw=w3024-h4032"><img src="https://lh3.googleusercontent.com/B_ROORlyG-eB9doDX1YIp6urKLeGyhb4Lv5yKS3sQouf4qGaJ35bkIREYvY7eNizFQToVLCi6sjWsmzTb2KXOj-yl8Ya6ROoBG-s8dK4Yaodiza9QL6Bi2adBYHceNnwihlsz0e4Xw=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/CShJ1zav8XT8lZfDGdAsjNhaIo98Dwa_TkzUpnOPccuf90KyZoahftyys6yS1Dm6QGh4oux6JKtQSvkx97L-TFmIKt7iiMOgxgoc4CHZ4dUnnNFB1ew7JoU8vJPvc0kK2NY_JHKRiQ=w3024-h4032"><img src="https://lh3.googleusercontent.com/CShJ1zav8XT8lZfDGdAsjNhaIo98Dwa_TkzUpnOPccuf90KyZoahftyys6yS1Dm6QGh4oux6JKtQSvkx97L-TFmIKt7iiMOgxgoc4CHZ4dUnnNFB1ew7JoU8vJPvc0kK2NY_JHKRiQ=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/j_1TkRjIx9FuQt-0A9Z-QTNK_Z4uHbeXubzK8I8aUWP1vgVA3rqhcagWVDAurPnp-V-Jb0nf49kwyd-HaSW2SZMzjX3QB3KYlhV2VdfFsTP-8dtZUbPs_9d3IKUDY8kdrUMtxubt8Q=w3024-h4032"><img src="https://lh3.googleusercontent.com/j_1TkRjIx9FuQt-0A9Z-QTNK_Z4uHbeXubzK8I8aUWP1vgVA3rqhcagWVDAurPnp-V-Jb0nf49kwyd-HaSW2SZMzjX3QB3KYlhV2VdfFsTP-8dtZUbPs_9d3IKUDY8kdrUMtxubt8Q=w200-h200"></a>
+

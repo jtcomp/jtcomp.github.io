@@ -25,9 +25,18 @@ layout: default
 
   <div class="chapter">
     <a href="{{post.url | prepend: site.baseurl}}">
-      {% if post.img %}
-      <img src={{ "/assets/img/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
-      {% endif %}
+      <img src=
+					 {% if post.googlePhotoUrl %}
+					 
+					 {{post.img}}
+					 
+					 {% else if post.img %}
+					 
+					 {{"/assets/img/" | prepend: site.baseurl | append : post.img}}
+					  
+					 {% endif %}
+					 
+		alt="{{page.title}}">
     </a>
     <div class="chapter_inner">
       <p class="chapter_number">{{post.date | date: '%Y, %b %d'}}</p>
@@ -48,9 +57,18 @@ layout: default
     {% for post in site.categories.Art limit:3%}
   <div class="chapter">
     <a href="{{post.url | prepend: site.baseurl}}">
-      {% if post.img %}
-      <img src={{ "/assets/img/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
-      {% endif %}
+		<img src=
+					 {% if post.googlePhotoUrl %}
+					 
+					 {{post.img}}
+					 
+					 {% else if page.img %}
+					 
+					 {{"/assets/img/" | prepend: site.baseurl | append : post.img}}
+					  
+					 {% endif %}
+					 
+		alt="{{page.title}}">
     </a>
     <div class="chapter_inner">
       <p class="chapter_number">{{post.date | date: '%Y, %b %d'}}</p>

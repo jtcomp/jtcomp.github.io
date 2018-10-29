@@ -50,7 +50,17 @@ layout: default
             <div class="recent_list">
                 {% for post in site.posts offset:0 limit:6 %}
                 {% if post.title %}
-                <a href="{{ root_url }}{{ post.url }}" class="recent_item" style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )"><span>{{ post.title }}</span></a>
+                <a href="{{ root_url }}{{ post.url }}" class="recent_item" style="background-image: url( 
+					 {% if post.googlePhotoUrl %}
+					 
+					 {{post.img}}
+					 
+					 {% else if post.img %}
+					 
+					 {{"/assets/img/" | prepend: site.baseurl | append: post.img}}
+					  
+					 {% endif %}				
+				 )"><span>{{ post.title }}</span></a>
                 {% endif %}
                 {% endfor %}
             </div>
@@ -73,12 +83,7 @@ layout: default
                     {% else %}
                     <span class="author_phone"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:+496-169-65-57">(496)-169-6557</a></span>
                     {% endif %}
-
-                    {% if site.website %}
-                    <span class="author_website"><i class="fa fa-link" aria-hidden="true"></i> <a href="{{site.website}}" target="_blank">{{site.website}}</a></span>
-                    {% else %}
-                    <span class="author_website"><i class="fa fa-link" aria-hidden="true"></i> <a href="#" target="_blank">https://dwayne.example.com</a></span>
-                    {% endif %}            
+          
                 </div>
             </div>
         </div>

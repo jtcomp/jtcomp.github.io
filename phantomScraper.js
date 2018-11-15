@@ -66,6 +66,7 @@ function readFiles(dirname, onFileContent, onError) {
   });
 }
 
+// Currently, this generates the simplest fancybox album
 function generateFancyBoxHTML (photoURLs, thumbnail_w, thumbnail_h) {
 	var HTMLString = "";
 	
@@ -105,13 +106,11 @@ async function scraperParser (linkURL) {
     } else {
         window.setTimeout(function () {
             
-        }, 1000); // Change timeout as required to allow sufficient time 
+        }, 1000); // Might be too high, but since I'm not scraping too many pages, this is fine for now
     }
 	});
 
     const content = await page.property('content');
-	
-	//const $ = cheerio.load(content);
 	
 	var linkPattern = /(https:\/\/lh3\.googleusercontent\.com\/[\w_-]{40,})\",([\d]+),([\d]+)/gm;
 	
@@ -120,9 +119,6 @@ async function scraperParser (linkURL) {
 	var duplicates = 0;
 	
 	while (match != null) {
-	  // matched text: match[0]
-	  // match start: match.index
-	  // capturing group n: match[n]
 	  logIfVerbose("URL:\t" + match[1] + "\tWidth:\t" + match[2]+ "\tHeight:\t" + match[3]);
 	  var isDup = false;
 	  if (match != null && match.length == 4) {

@@ -17,9 +17,26 @@ So I could create an album, share it, and pull out the photo URLs. Easy right? N
 
 This turned out to be not as simple as I thought at first. I needed to scrape the URLs before I pushed my project to Github because I didn't want to write my own Jekyll plugin to do this. I don't know Ruby well, and wanted a simple way to solve this problem. So I turned to using Node.js along with PhantomJS to pull the images from the shared URL.
 
-It searched through all of my posts, looking for a custom tag containing a Photos URL. At first, I tried to use Phantom's DOM manipulation to grab each image but this turned out to give inconsistant results. The way the page was loaded, not every image in an album would appear. A better way turned out be using simple regex to scrap the javascript at the bottom of the page. 
+The scraper searched through all of my posts, looking for a custom tag containing a Photos URL, shown below. 
 
-Eventually, I might build out a Jekyll plugin for this, but for now I'll just run my simple scraper before I push a new post.
+```
+
+<!–autogen--album--<link>--album--end->
+
+```
+
+At first, I tried to use Phantom's DOM manipulation to grab each image but this turned out to give inconsistant results. Eventually, I found a better way. This turned out be using simple regex to scrap the javascript at the bottom of the page.
+
+```
+
+var linkPattern = 
+/(https:\/\/lh3\.googleusercontent\.com\/[\w_-]{40,})\",([\d]+),([\d]+)/gm;
+
+```
+
+There turned out to potentially be duplicate links, so after removing those, my scraper was ready to generate my galleries! I turned to [fancybox](http://fancyapps.com/fancybox/3/) to create my lightbox because of its simplicity. The full Node.js scraper can be found [here](https://github.com/jtcomp/jtcomp.github.io/blob/master/phantomScraper.js).
+
+Eventually, I might build out a Jekyll plugin for this, but for now I'll just run my simple scraper before I push a new post. If Google consistantly changes the structure of their Photos pages or their URLs, then this system will not be as useful.
 
 I've just got a simple example below.
 

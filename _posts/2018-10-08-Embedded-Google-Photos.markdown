@@ -11,7 +11,7 @@ categories: Projects
 
 I decided to use GitHub pages for a personal blog, but I encountered a major issue. I wanted to host my photos in a nice gallery, but Git isn't the best place for large files.
 
-I'd especially appreciate this for my travel photos, which are pretty numerous. I love Google Photos and use it all the time. I remebered hearing about [something interesting](https://www.theverge.com/2015/6/23/8830977/google-photos-security-public-url-privacy-protected) a while back. Thier photo URLs are public, if shared.
+I'd especially appreciate this for my travel photos, which are pretty numerous. I love Google Photos and use it all the time. I remebered hearing about [something interesting](https://www.theverge.com/2015/6/23/8830977/google-photos-security-public-url-privacy-protected) a while back. All of the image URLs are technically publically accessible.
 
 So I could create an album, share it, and pull out the photo URLs. Easy right? No re-uploads to Git ect...
 
@@ -30,7 +30,8 @@ At first, I tried to use Phantom's DOM manipulation to grab each image but this 
 ```
 
 var linkPattern = 
-/(https:\/\/lh3\.googleusercontent\.com\/[\w_-]{40,})\",([\d]+),([\d]+)/gm;
+/(https:\/\/lh3\.googleusercontent\.com\/[\w_-]
+{40,})\",([\d]+),([\d]+)/gm;
 
 ```
 

@@ -12,7 +12,7 @@ tag: [Travel]
 categories: Travel
 ---
 
-Photos from my trek in Nepal and India near Kangchenjunga, and then from the friend's sister's wedding I attended in 
+Photos from my trek in Nepal and India near Kangchenjunga, and then from the friend's sister's wedding I attended in Dehli.
 
 {% comment %}<!–autogenned--album--https://photos.google.com/u/0/share/AF1QipNDKXv0YSTc-Qo91EykQTYifrZwwrpz6PQxS1HUp5Mhpd3XtVWmPPMMsAnDlVuLng?key=VmZsWmJ3MGJ2VnVmZUdxYTMtUS1wVTAxUTg0UmJ3--album--end->
 {% endcomment %}

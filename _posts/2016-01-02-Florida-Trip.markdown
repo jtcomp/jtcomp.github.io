@@ -12,7 +12,7 @@ tag: [Travel]
 categories: Travel
 ---
 
-
+A trip to Florida, with Habitat for Humanity.
 
 {% comment %}<!–autogenned--album--https://photos.google.com/share/AF1QipO9JMSxECk3e9ZsG7LNQKuofLPeAVrFdYcgmO8iFk5jSUcNL_Fq4H6r1Hyj8Kmq1g?key=RWRBV2o4VFZoUTQ2RGtvTlJtUzhIUzRBVzdyUmh3--album--end->
 {% endcomment %}

@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Europa"
+img: https://lh3.googleusercontent.com/soEmew3Bdvwe5q_WUozYkRM7AzJ1p83-AwDv7iSZqvpMP8bRkRpbIxf95IQzmjhMu9bpSfzCqF5YEA29GOa1lXEaVmXfwBW7akthrOH5PEr6MU1VkWOlrkGlg3X1Y7DBKtcgxDPskg=w530-h746
+googlePhotoUrl: true
+date: 2016-04-25 12:53:00 +0300
+description: "Old Art from high school"
+tag: [Art]
+categories: Art
+---
+
+A short graphic novel, mixing Jules Verne, James Gurney and Arthur C. Clarke.  
+
+{% comment %}<!–autogenned--album--https://photos.app.goo.gl/XFcFeb2UEG2j5PccA--album--end->
+{% endcomment %}
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/YiHqsas1TxtaPr-8u3JxCyfDhO2TrCyPyDkPH5fXkihsLKvmf0J2pf4mitjGDxMghZ0tkjPRSzLNIRb-OLVX1cgcDfv8-K70fPmxbp2uI4x-dr1sKSe3caNiz3pv51s1wTMLW8vubw=w530-h742"><img src="https://lh3.googleusercontent.com/YiHqsas1TxtaPr-8u3JxCyfDhO2TrCyPyDkPH5fXkihsLKvmf0J2pf4mitjGDxMghZ0tkjPRSzLNIRb-OLVX1cgcDfv8-K70fPmxbp2uI4x-dr1sKSe3caNiz3pv51s1wTMLW8vubw=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/R4dOb0zsyX9RwASQT2eH6-rzMmkS8axbxdPxV1UTRI3X3IXTTdKqzRvxDVZgAK-OT_CrDAO1gtiSQqJwPijo8W2E9XqqAWNb5RbQ2k8bjQs-n9SRX-MHeMLD6Xow92ERKnC3Gf4FYQ=w530-h743"><img src="https://lh3.googleusercontent.com/R4dOb0zsyX9RwASQT2eH6-rzMmkS8axbxdPxV1UTRI3X3IXTTdKqzRvxDVZgAK-OT_CrDAO1gtiSQqJwPijo8W2E9XqqAWNb5RbQ2k8bjQs-n9SRX-MHeMLD6Xow92ERKnC3Gf4FYQ=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/IpSW7izGtM3drbPDPtM_KzO-Gm1H5aT4TqKq_jSLpb4Z69gKj4Zq-6Mgece9sS5Sz2Nftwy_lE5AOHRpcxdIlzMTxzAicCKbLLOvdHzzNiLMXDALlv_anCkYM47UZuek8nfEsxy1gw=w530-h741"><img src="https://lh3.googleusercontent.com/IpSW7izGtM3drbPDPtM_KzO-Gm1H5aT4TqKq_jSLpb4Z69gKj4Zq-6Mgece9sS5Sz2Nftwy_lE5AOHRpcxdIlzMTxzAicCKbLLOvdHzzNiLMXDALlv_anCkYM47UZuek8nfEsxy1gw=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/7k3BkRBDq9JLnhvIm5p73Q_evi02xLSd3OJkGrPPWn4W0MhJVo8bFoqmFzCj8kEZGIo_fHp078KhdqyzW-jv593seq4oTcJsZyjSJ8YqCg30ApyPGZVYBA2RWq5URziXAhuul3V6Ug=w530-h736"><img src="https://lh3.googleusercontent.com/7k3BkRBDq9JLnhvIm5p73Q_evi02xLSd3OJkGrPPWn4W0MhJVo8bFoqmFzCj8kEZGIo_fHp078KhdqyzW-jv593seq4oTcJsZyjSJ8YqCg30ApyPGZVYBA2RWq5URziXAhuul3V6Ug=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/V1Bgz7NEp8ROHOsF_fo013sYwF3EuwaFBUNGjPRu73oZcMhogm-J7WnpMv0fDHrz8VS-ioqa_y6__--E3lJZs6a72gTMUx0zYlXo0POratYLd1eRqdq45Qo6gvLIX-8QQCVnw_JaEg=w530-h743"><img src="https://lh3.googleusercontent.com/V1Bgz7NEp8ROHOsF_fo013sYwF3EuwaFBUNGjPRu73oZcMhogm-J7WnpMv0fDHrz8VS-ioqa_y6__--E3lJZs6a72gTMUx0zYlXo0POratYLd1eRqdq45Qo6gvLIX-8QQCVnw_JaEg=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/K7hyHzBjuijXKwQfNtW-BOpRTo_k3JADpKm8WZjNUqcW3CMZHDKnCrKvudWY7jeo4K6kIIQDl6zJ51UGEN6XN6mQZ69AGLiHr8WWPl78QH2sIjSvef9sboqRWElTP-M2pZZvoIJTmQ=w530-h745"><img src="https://lh3.googleusercontent.com/K7hyHzBjuijXKwQfNtW-BOpRTo_k3JADpKm8WZjNUqcW3CMZHDKnCrKvudWY7jeo4K6kIIQDl6zJ51UGEN6XN6mQZ69AGLiHr8WWPl78QH2sIjSvef9sboqRWElTP-M2pZZvoIJTmQ=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/rvyQzT2fc40AxdWzQ54IUWABWfbb4QSKVuj3k-npttTGdbT56uZMVj9KTRwJ7CB41gKVzbpSgl9fY0dVxqqMoT_c7lAr_86pLJhlWqk2RdT1y-yKQes3v2V6NMF_i3VGRNE4miPkfA=w530-h749"><img src="https://lh3.googleusercontent.com/rvyQzT2fc40AxdWzQ54IUWABWfbb4QSKVuj3k-npttTGdbT56uZMVj9KTRwJ7CB41gKVzbpSgl9fY0dVxqqMoT_c7lAr_86pLJhlWqk2RdT1y-yKQes3v2V6NMF_i3VGRNE4miPkfA=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/8KJUxV8nM3QkrDJdl-06y3dPaQJ6DY7u8f0eSSV9iTtiJhrxTNCXROZfhOGkw7tTrscFAADs74P7D5xDrOhJmI9os8Q-_xcVw9jUc8lGSAz6kckDecdIp5kqdQd4thUWDm8CYmFFKQ=w530-h624"><img src="https://lh3.googleusercontent.com/8KJUxV8nM3QkrDJdl-06y3dPaQJ6DY7u8f0eSSV9iTtiJhrxTNCXROZfhOGkw7tTrscFAADs74P7D5xDrOhJmI9os8Q-_xcVw9jUc8lGSAz6kckDecdIp5kqdQd4thUWDm8CYmFFKQ=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/_DjnqJZGuAVjxO7GPN-DGRw3MsSsYPtE3lQbNOSY8iIXx32eKAWr-1jIJcgy6sZz0ofWs07Dv_sRTf95_yIaKuNhsrCD-w-Dnc_dBgXXtcKDuyRZt2evTkrC7SrLIXxe42JE7dFjJA=w530-h742"><img src="https://lh3.googleusercontent.com/_DjnqJZGuAVjxO7GPN-DGRw3MsSsYPtE3lQbNOSY8iIXx32eKAWr-1jIJcgy6sZz0ofWs07Dv_sRTf95_yIaKuNhsrCD-w-Dnc_dBgXXtcKDuyRZt2evTkrC7SrLIXxe42JE7dFjJA=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/soEmew3Bdvwe5q_WUozYkRM7AzJ1p83-AwDv7iSZqvpMP8bRkRpbIxf95IQzmjhMu9bpSfzCqF5YEA29GOa1lXEaVmXfwBW7akthrOH5PEr6MU1VkWOlrkGlg3X1Y7DBKtcgxDPskg=w530-h746"><img src="https://lh3.googleusercontent.com/soEmew3Bdvwe5q_WUozYkRM7AzJ1p83-AwDv7iSZqvpMP8bRkRpbIxf95IQzmjhMu9bpSfzCqF5YEA29GOa1lXEaVmXfwBW7akthrOH5PEr6MU1VkWOlrkGlg3X1Y7DBKtcgxDPskg=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/MCV_TDdEKZYNtelFDLj62x5lfw66XNajL5N9nolOUHbXm2MZIHcW92b9_PZy3fNHvJoihIU138jk-ySsjJtN8glXGnJQNQzySI8AtZuKB8siQOi9Dei0qevR181ItYaMnfngk_7ywQ=w530-h756"><img src="https://lh3.googleusercontent.com/MCV_TDdEKZYNtelFDLj62x5lfw66XNajL5N9nolOUHbXm2MZIHcW92b9_PZy3fNHvJoihIU138jk-ySsjJtN8glXGnJQNQzySI8AtZuKB8siQOi9Dei0qevR181ItYaMnfngk_7ywQ=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/jf6WLzfGfhN-AXtqdW0uVcSWLIUmy6cypaKgOtTcfL_Dwy_dtc3qjeJ5aE9GuAtJICAy8WUhOYPdNpfqdm0It-PQ3t2LUygYpvosMUk26fLTg7bWTM51LP7d47gaUJuej5XwVsTw8Q=w530-h748"><img src="https://lh3.googleusercontent.com/jf6WLzfGfhN-AXtqdW0uVcSWLIUmy6cypaKgOtTcfL_Dwy_dtc3qjeJ5aE9GuAtJICAy8WUhOYPdNpfqdm0It-PQ3t2LUygYpvosMUk26fLTg7bWTM51LP7d47gaUJuej5XwVsTw8Q=w200-h200"></a>
+

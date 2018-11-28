@@ -9,11 +9,11 @@ tag: [Projects]
 categories: Projects
 ---
 
-I wanted to create a minimalist map of the river systems of Wisconsin, inspired by [Nelson Minar's map] (https://io9.gizmodo.com/a-map-of-all-the-rivers-in-the-united-states-and-nothi-513353739) of the United States. But I wanted to laser engrave it.
+I wanted to create a minimalist map of the river systems of Wisconsin, inspired by [Nelson Minar's map](https://io9.gizmodo.com/a-map-of-all-the-rivers-in-the-united-states-and-nothi-513353739) of the United States. But I wanted to laser engrave it.
 
 I needed to strike a good balance with the level of detail I included to keep the map looking "full" without overdoint it. I would need extremely high resolution data.
 
-The Wisconsin DNR's [24K Hydro database] (https://www.arcgis.com/home/item.html?id=cb1c7f75d14f42ee819a46894fd2e771) turned out to be the answer. I had to find the file on ARCGis because the DNR's links turned out to be broken. I didn't have access to any Esri software but [QGIS] (https://www.qgis.org/en/site/) turned out to be a wonderfully well put together open source GIS tool.
+The Wisconsin DNR's [24K Hydro database](https://www.arcgis.com/home/item.html?id=cb1c7f75d14f42ee819a46894fd2e771) turned out to be the answer. I had to find the file on ARCGis because the DNR's links turned out to be broken. I didn't have access to any Esri software but [QGIS](https://www.qgis.org/en/site/) turned out to be a wonderfully well put together open source GIS tool.
 
 I figured out how to import the DNR's massive amount information. It was quickly clear that I would have to filter out finer details. 
 

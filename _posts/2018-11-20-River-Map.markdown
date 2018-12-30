@@ -2,7 +2,8 @@
 layout: post
 title: "A Laser Engraved River Map"
 googlePhotoUrl: true
-img: https://lh3.googleusercontent.com/8Mnz8f5rrJX24E5P2e9TpL_h1ocRBUSzNKGBXqX4gDhIlO4JjBw-oAFjECcnUzStCq2M5Hv-HzLyVjZZU95OtqgnYAdcKltwaowHk4odWZGPHC3JfKXZ0KadV0ikLj507S82Mfdq7w=w3462-h3726
+img: https://lh3.googleusercontent.com/8Mnz8f5rrJX24E5P2e9TpL_h1ocRBUSzNKGBXqX4gDhIlO4JjBw-oAFjECcnUzStCq2M5Hv-HzLyVjZZU95OtqgnYAdcKltwaowHk4odWZGPHC3JfKXZ0KadV0ikLj507S82Mfdq7w=w400-h550
+img-small: https://lh3.googleusercontent.com/8Mnz8f5rrJX24E5P2e9TpL_h1ocRBUSzNKGBXqX4gDhIlO4JjBw-oAFjECcnUzStCq2M5Hv-HzLyVjZZU95OtqgnYAdcKltwaowHk4odWZGPHC3JfKXZ0KadV0ikLj507S82Mfdq7w=w400-h550
 date: 2018-11-09 12:53:00 +0300
 description: Creating a laser engraved river map
 tag: [Projects]
@@ -25,16 +26,17 @@ Even still, these files were still massive and error prone in Illustrator. PDF g
 
 The final step, loading the file into the cutter turned out to be additionally problematic. The import software was prone to bugs with these files. I was trying to a massive amount of engraving, but the laser would randomly stop about 10 minutes into the cut. The staff had never seen it before. 
 
-I converted the entire file and cut it as a raster, but it didn't give the clean cut look I was going for. My current solution is simplify the river geometery as much as possible to reduce the total number of vectors. 
+I converted the entire file and cut it as a raster, but it didn't give the clean cut look I was going for. 
 
-Potentially, if that still doesn't work, I will subdivide the file into quadrants and engrave them one at a time. 
+
+My solution was simplify the river geometry as much as possible to reduce the total number of vectors. This worked, and I created multiple prints with this method. 
 
 {% comment %}<!–autogenned--album--https://photos.google.com/share/AF1QipPuyBFgLLLiJO1aDK03UeEjOqTMzeV85LMIwFaeQkTFkppi0-lU9hNRQhxeuCdxlQ?key=M3gwWFVaNVdCdW9wUnpncW1NTWRuZWRVOFYySWRB--album--end->
 {% endcomment %}
-<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/-5S7rULcVoZVxfBES3vXE42pGU5MSTA7dpuWs_QNt1n-8rVTLvwT3qCRPsxfk-dVB8ga-Cm5LxWMlFpG_J_agUZozZXcojVfBeXLTR87nUdlGcYSw5JFuLQ1w_9kCrwI3vuY_B4GNQ=w3024-h4032"><img src="https://lh3.googleusercontent.com/-5S7rULcVoZVxfBES3vXE42pGU5MSTA7dpuWs_QNt1n-8rVTLvwT3qCRPsxfk-dVB8ga-Cm5LxWMlFpG_J_agUZozZXcojVfBeXLTR87nUdlGcYSw5JFuLQ1w_9kCrwI3vuY_B4GNQ=w200-h200"></a>
-<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/BpGPwrER7Qa4kKU261oqK9Dk21fhwq08f725am9XkCZ_FxbdZgBBm51kelnS7ymiDBephrVvEm4F09S15R-4eDZSp80NJiMRvraJhfQ04VNXMpJfIn7z697nubrcadI1tiWh5CETlg=w3024-h4032"><img src="https://lh3.googleusercontent.com/BpGPwrER7Qa4kKU261oqK9Dk21fhwq08f725am9XkCZ_FxbdZgBBm51kelnS7ymiDBephrVvEm4F09S15R-4eDZSp80NJiMRvraJhfQ04VNXMpJfIn7z697nubrcadI1tiWh5CETlg=w200-h200"></a>
-<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/3QuOa2dK3_V17euX-i42XzBVtTsPYXIZBtrvXF1QXkj7vqhoLDpYLNK92c-PsOMARaI3DdGIXJpIWnfWSy4SKlrn9muGY_-wOICzAgcBRKdE-ibL3sKxo7DTzBSBZMh6-xZUkENwUQ=w3024-h4032"><img src="https://lh3.googleusercontent.com/3QuOa2dK3_V17euX-i42XzBVtTsPYXIZBtrvXF1QXkj7vqhoLDpYLNK92c-PsOMARaI3DdGIXJpIWnfWSy4SKlrn9muGY_-wOICzAgcBRKdE-ibL3sKxo7DTzBSBZMh6-xZUkENwUQ=w200-h200"></a>
-<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/Ty--iT2obGhEAs1tcBN35VR9ZbY8XCwkN__uq8r6MfLVSpBk29ATqmf_aoBljusZiNopo5Irtq_jsjSyosyL0hRpDo1Q4-6RnA9T5Fnj2zh1hDgg_vaujfhIQr8fNplAe8ZZgEsi4Q=w3024-h4032"><img src="https://lh3.googleusercontent.com/Ty--iT2obGhEAs1tcBN35VR9ZbY8XCwkN__uq8r6MfLVSpBk29ATqmf_aoBljusZiNopo5Irtq_jsjSyosyL0hRpDo1Q4-6RnA9T5Fnj2zh1hDgg_vaujfhIQr8fNplAe8ZZgEsi4Q=w200-h200"></a>
 <a data-fancybox="gallery" href="https://lh3.googleusercontent.com/QSHwIVOELADqwq6PV_dtw8ISG7bCBEpInzLruf9b49LLf9JJK6J_Wdda7QleFSR6OBk3XJoD3cxkdaxYd1D2XbhJ6g1QvDo7jTmXAJNPhnPTVdQNwG6fd-w_BQ_nardMyV6G_5Juxg=w3024-h4032"><img src="https://lh3.googleusercontent.com/QSHwIVOELADqwq6PV_dtw8ISG7bCBEpInzLruf9b49LLf9JJK6J_Wdda7QleFSR6OBk3XJoD3cxkdaxYd1D2XbhJ6g1QvDo7jTmXAJNPhnPTVdQNwG6fd-w_BQ_nardMyV6G_5Juxg=w200-h200"></a>
-<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/GL6jfs0go5o_rZIzbR9FaKEhxBOPKf-eOgQ40WFnl2JzrlDm0Fxi6kRVwvdt0B8dDUIboCOvMOyMcxFqHJoGq0YwhsHDqoCFg_pu0Rc313wGoyb18ZjJv4TntdoO6kH1OGvvcbp-NQ=w1920-h1080"><img src="https://lh3.googleusercontent.com/GL6jfs0go5o_rZIzbR9FaKEhxBOPKf-eOgQ40WFnl2JzrlDm0Fxi6kRVwvdt0B8dDUIboCOvMOyMcxFqHJoGq0YwhsHDqoCFg_pu0Rc313wGoyb18ZjJv4TntdoO6kH1OGvvcbp-NQ=w200-h200"></a>
 <a data-fancybox="gallery" href="https://lh3.googleusercontent.com/8Mnz8f5rrJX24E5P2e9TpL_h1ocRBUSzNKGBXqX4gDhIlO4JjBw-oAFjECcnUzStCq2M5Hv-HzLyVjZZU95OtqgnYAdcKltwaowHk4odWZGPHC3JfKXZ0KadV0ikLj507S82Mfdq7w=w3462-h3726"><img src="https://lh3.googleusercontent.com/8Mnz8f5rrJX24E5P2e9TpL_h1ocRBUSzNKGBXqX4gDhIlO4JjBw-oAFjECcnUzStCq2M5Hv-HzLyVjZZU95OtqgnYAdcKltwaowHk4odWZGPHC3JfKXZ0KadV0ikLj507S82Mfdq7w=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/kJjlm4-OMIaFoe9HdV2ebJv2bx_E9c76_YGLfYXMOqP_GsfI1N9nLxZGvT-EmKzmi6ObvsB-3nc3GsZw-z9nlwusQyZSaHgUJstRQSAfqOi9G79j6gGzuA43F3nzUxU1Y1Nug8fvVw=w1547-h1695"><img src="https://lh3.googleusercontent.com/kJjlm4-OMIaFoe9HdV2ebJv2bx_E9c76_YGLfYXMOqP_GsfI1N9nLxZGvT-EmKzmi6ObvsB-3nc3GsZw-z9nlwusQyZSaHgUJstRQSAfqOi9G79j6gGzuA43F3nzUxU1Y1Nug8fvVw=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/Kogn-hDKkeVTXXzwVN5FOZ7oz7zb_8egzBUDKAmXAv-LadMEptwIOI9aA6Aozc_BvA3t6aaSEI0yQop4rdiPo7vCDcZEhPRr-SLijIf-k9Mk0hQqVJbM1sCeeEpZa4dqxTzOtkLLbg=w3024-h4032"><img src="https://lh3.googleusercontent.com/Kogn-hDKkeVTXXzwVN5FOZ7oz7zb_8egzBUDKAmXAv-LadMEptwIOI9aA6Aozc_BvA3t6aaSEI0yQop4rdiPo7vCDcZEhPRr-SLijIf-k9Mk0hQqVJbM1sCeeEpZa4dqxTzOtkLLbg=w200-h200"></a>
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/b4WqHr52kbvTWCVCF7wYG3Nw40_0zU7085qQhjHEUKIpMJQPqPnRh4OQMi8NiQESFdyGh0dk33zj7tuL3W66RKRAnbSxRm0U1svgSDuHVqfprI7-45DGe0WX4q1XZowvZhB-f6bphQ=w3024-h4032"><img src="https://lh3.googleusercontent.com/b4WqHr52kbvTWCVCF7wYG3Nw40_0zU7085qQhjHEUKIpMJQPqPnRh4OQMi8NiQESFdyGh0dk33zj7tuL3W66RKRAnbSxRm0U1svgSDuHVqfprI7-45DGe0WX4q1XZowvZhB-f6bphQ=w200-h200"></a>
+
+

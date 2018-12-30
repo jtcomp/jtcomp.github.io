@@ -12,12 +12,23 @@ tag: [Travel]
 categories: Travel
 ---
 
+Photos from my trip to Mallorca in 2018.
 
 {% comment %}<!–autogenned--album--https://photos.google.com/share/AF1QipNHBIZX82fS4rTzT40nMF42Y8QZIrEyG8sRJMr-EHFeOBWagho7fPUUMWmtzfjaOQ?key=ZzZmMFFFYkMtLWhXZ244T0lieEVLdlBHNFctaHRn--album--end->
 {% endcomment %}
-<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/C_9XLb61KIkL1Xm8voolDzkrZ8AsSS4Jw8w8co8zmuoTP85DBC8fAA51BRyfrS8RKr0adt1kLB5BoIMKwZSMsDZ9hLDSdBKoNwoJfWmz5hUNAMEBUvBF9pxx4KjpFzx7DGEWV1nKrw=w3824-h2549"><img src="https://lh3.googleusercontent.com/C_9XLb61KIkL1Xm8voolDzkrZ8AsSS4Jw8w8co8zmuoTP85DBC8fAA51BRyfrS8RKr0adt1kLB5BoIMKwZSMsDZ9hLDSdBKoNwoJfWmz5hUNAMEBUvBF9pxx4KjpFzx7DGEWV1nKrw=w200-h200"></a>
-<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/kB0ycPv3RipnbPKcUEfmOiZykN93KLrh1Y-hX6Xlys48jofuoKMxTJEBuS0NNMapW171eArkcvyA2jX2vyWkXtQ2lplGAaOhvdS6VGWo3SQZ3tA8GNsoU9dYN_uCgAUm2hyTeBAvtw=w3888-h2592"><img src="https://lh3.googleusercontent.com/kB0ycPv3RipnbPKcUEfmOiZykN93KLrh1Y-hX6Xlys48jofuoKMxTJEBuS0NNMapW171eArkcvyA2jX2vyWkXtQ2lplGAaOhvdS6VGWo3SQZ3tA8GNsoU9dYN_uCgAUm2hyTeBAvtw=w200-h200"></a>
-<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/Kx57FIitK8IMGFPts2SWefBuPiO1EabYXn56WDcCJKvDcEC6Mbt-2MkQeahfJ3fvDgQx9zyXFUu4eVAk6H6barybxjYCTULwuYePMkGxZqq8Uf6WUHtLr4R-UuGTDz2VDSnSi943_g=w3888-h2592"><img src="https://lh3.googleusercontent.com/Kx57FIitK8IMGFPts2SWefBuPiO1EabYXn56WDcCJKvDcEC6Mbt-2MkQeahfJ3fvDgQx9zyXFUu4eVAk6H6barybxjYCTULwuYePMkGxZqq8Uf6WUHtLr4R-UuGTDz2VDSnSi943_g=w200-h200"></a>
+
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/kB0ycPv3RipnbPKcUEfmOiZykN93KLrh1Y-hX6Xlys48jofuoKMxTJEBuS0NNMapW171eArkcvyA2jX2vyWkXtQ2lplGAaOhvdS6VGWo3SQZ3tA8GNsoU9dYN_uCgAUm2hyTeBAvtw=w3888-h2592"><img src="https://lh3.googleusercontent.com/kB0ycPv3RipnbPKcUEfmOiZykN93KLrh1Y-hX6Xlys48jofuoKMxTJEBuS0NNMapW171eArkcvyA2jX2vyWkXtQ2lplGAaOhvdS6VGWo3SQZ3tA8GNsoU9dYN_uCgAUm2hyTeBAvtw=w400-h400"></a>
+
+Before heading to Mallorca, we climbed the [ Costa Blanca route up the Peñón de Ifach](https://www.rockfax.com/databases/r.php?i=13882). It was a classic 6C+ (about a 5.11c in YDS) that went up the south face.
+
+
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/C_9XLb61KIkL1Xm8voolDzkrZ8AsSS4Jw8w8co8zmuoTP85DBC8fAA51BRyfrS8RKr0adt1kLB5BoIMKwZSMsDZ9hLDSdBKoNwoJfWmz5hUNAMEBUvBF9pxx4KjpFzx7DGEWV1nKrw=w3824-h2549"><img src="https://lh3.googleusercontent.com/C_9XLb61KIkL1Xm8voolDzkrZ8AsSS4Jw8w8co8zmuoTP85DBC8fAA51BRyfrS8RKr0adt1kLB5BoIMKwZSMsDZ9hLDSdBKoNwoJfWmz5hUNAMEBUvBF9pxx4KjpFzx7DGEWV1nKrw=w400-h400"></a>
+
+<a data-fancybox="gallery" href="https://lh3.googleusercontent.com/Kx57FIitK8IMGFPts2SWefBuPiO1EabYXn56WDcCJKvDcEC6Mbt-2MkQeahfJ3fvDgQx9zyXFUu4eVAk6H6barybxjYCTULwuYePMkGxZqq8Uf6WUHtLr4R-UuGTDz2VDSnSi943_g=w3888-h2592"><img src="https://lh3.googleusercontent.com/Kx57FIitK8IMGFPts2SWefBuPiO1EabYXn56WDcCJKvDcEC6Mbt-2MkQeahfJ3fvDgQx9zyXFUu4eVAk6H6barybxjYCTULwuYePMkGxZqq8Uf6WUHtLr4R-UuGTDz2VDSnSi943_g=w400-h400"></a>
+
+A small village where we had lunch.
+
+
 <a data-fancybox="gallery" href="https://lh3.googleusercontent.com/XFdWnaHO_JBm4tOXIqGAD1-8inY95IsXBzl3HyUe5jPQzxaboUWzOuXcy3I64OyJ2pdB2Mg-vgb-nRIdKD2t8d1poG5WzfhzdHt4wU2itiRb3a2tV5GntwNKT0gpC4PsfBgMhFdaLA=w3888-h2592"><img src="https://lh3.googleusercontent.com/XFdWnaHO_JBm4tOXIqGAD1-8inY95IsXBzl3HyUe5jPQzxaboUWzOuXcy3I64OyJ2pdB2Mg-vgb-nRIdKD2t8d1poG5WzfhzdHt4wU2itiRb3a2tV5GntwNKT0gpC4PsfBgMhFdaLA=w200-h200"></a>
 <a data-fancybox="gallery" href="https://lh3.googleusercontent.com/Qx9hTKN51UtdrhadijagRKCDEsVSKAiiiBpbz10KHskBnovd8R_TbLjHLii6qrnkgstLODIYBeKcBUFD9tPbFLVhgW68IowkIzTRRgzX8Z_M1hlkR9yHylrp2_yRVCwsAq-5B-DU6w=w3888-h2592"><img src="https://lh3.googleusercontent.com/Qx9hTKN51UtdrhadijagRKCDEsVSKAiiiBpbz10KHskBnovd8R_TbLjHLii6qrnkgstLODIYBeKcBUFD9tPbFLVhgW68IowkIzTRRgzX8Z_M1hlkR9yHylrp2_yRVCwsAq-5B-DU6w=w200-h200"></a>
 <a data-fancybox="gallery" href="https://lh3.googleusercontent.com/l-DFmBNTWYVfaeQlCJbNh-JdDdMYYRojK8Eu8lW6XajnXtj9IcPM5JBjbaKR0PXyOe_xz7m2VAdPJs1rRyMacZjnU0BkRCVhR2T_aFkJYmwKTaQ9S-u7PvIdKi-N5uyTtdKOkhNPAw=w3888-h2592"><img src="https://lh3.googleusercontent.com/l-DFmBNTWYVfaeQlCJbNh-JdDdMYYRojK8Eu8lW6XajnXtj9IcPM5JBjbaKR0PXyOe_xz7m2VAdPJs1rRyMacZjnU0BkRCVhR2T_aFkJYmwKTaQ9S-u7PvIdKi-N5uyTtdKOkhNPAw=w200-h200"></a>
@@ -26,6 +37,12 @@ categories: Travel
 <a data-fancybox="gallery" href="https://lh3.googleusercontent.com/KiN8xewf4uiDs75H06yDAMNHCdfaABOFHyQcX045jQrKXCcMfUiNYKBsfgcsVVNGqLLphcMMnGIdWr6hdy8ho_HnN8e7UgfMRxpNSGZYpmPqdTU0B-rastZuXFE17KOCjJapZiduMg=w3888-h2592"><img src="https://lh3.googleusercontent.com/KiN8xewf4uiDs75H06yDAMNHCdfaABOFHyQcX045jQrKXCcMfUiNYKBsfgcsVVNGqLLphcMMnGIdWr6hdy8ho_HnN8e7UgfMRxpNSGZYpmPqdTU0B-rastZuXFE17KOCjJapZiduMg=w200-h200"></a>
 <a data-fancybox="gallery" href="https://lh3.googleusercontent.com/Rk6-6i1zuGpw_di5YLKuIXC9HUP8HxXYlldugcacY0ZOpfAy-17CuNJGl629D_ZTbjZXLuMATWmPSrmdw9roLbIvHSxWEyINSG2-5lnNyhrw-3rYnel0W3skL8lkjmszzH3-XeOe9Q=w2219-h3544"><img src="https://lh3.googleusercontent.com/Rk6-6i1zuGpw_di5YLKuIXC9HUP8HxXYlldugcacY0ZOpfAy-17CuNJGl629D_ZTbjZXLuMATWmPSrmdw9roLbIvHSxWEyINSG2-5lnNyhrw-3rYnel0W3skL8lkjmszzH3-XeOe9Q=w200-h200"></a>
 <a data-fancybox="gallery" href="https://lh3.googleusercontent.com/x6vcnzfsYk0Td9-eBcZU4YV8XUo_vg9UpS5-uqJOL8ZBqENh0KHHunjBNtZX43-Qd-Ck8MkK9tV55MMIzko3VMgDMjHyy6pj02Tnn9tHg8YNfcs8Ez0nHV3PlewtqdhFZx5g_cSXuw=w2592-h3888"><img src="https://lh3.googleusercontent.com/x6vcnzfsYk0Td9-eBcZU4YV8XUo_vg9UpS5-uqJOL8ZBqENh0KHHunjBNtZX43-Qd-Ck8MkK9tV55MMIzko3VMgDMjHyy6pj02Tnn9tHg8YNfcs8Ez0nHV3PlewtqdhFZx5g_cSXuw=w200-h200"></a>
+
+Exploring the north-eastern coast, where massive cliffs arose from the Mediterranean.
+
 <a data-fancybox="gallery" href="https://lh3.googleusercontent.com/grXKW6jlwF7xApHaB871ybMLjZfKzgnWjlFK5LI1heB2tUQrtQ5gw_XoYQChznhdW_y2JSmbbpxZ4lgKNP5Z2tDnZF4piDokCnRky3f7mAOUU7tK_YRJAc_KJAL7Fxg40ArgNAaIPQ=w3024-h4032"><img src="https://lh3.googleusercontent.com/grXKW6jlwF7xApHaB871ybMLjZfKzgnWjlFK5LI1heB2tUQrtQ5gw_XoYQChznhdW_y2JSmbbpxZ4lgKNP5Z2tDnZF4piDokCnRky3f7mAOUU7tK_YRJAc_KJAL7Fxg40ArgNAaIPQ=w200-h200"></a>
+
 <a data-fancybox="gallery" href="https://lh3.googleusercontent.com/kVwoy7fcANSPCBK2CO36I0Qiz8O9LxVZdCq3DugDoa-JeoCbtaW16aH60YX59oL2UKThZ5Zq19O6HZDuENSfMxSFhklucX9nZPOQw-Y6FLmSWBvZSSeMuqZVQTJi2JNLBgSfdXa-xQ=w3024-h4032"><img src="https://lh3.googleusercontent.com/kVwoy7fcANSPCBK2CO36I0Qiz8O9LxVZdCq3DugDoa-JeoCbtaW16aH60YX59oL2UKThZ5Zq19O6HZDuENSfMxSFhklucX9nZPOQw-Y6FLmSWBvZSSeMuqZVQTJi2JNLBgSfdXa-xQ=w200-h200"></a>
 <a data-fancybox="gallery" href="https://lh3.googleusercontent.com/NsjEPGYU0VPnwhWz-zwFjSEme3xSxyf3z4eDxv64yesdqxsY_-XnMpqs5COQepj8-Eg4tEQHIvgqcFUxsLK5S6PGJKUT90AbbC9Fyf1x6RRSgVwUzYygRZcipDgCp6OX8B6SPesJYQ=w4032-h3024"><img src="https://lh3.googleusercontent.com/NsjEPGYU0VPnwhWz-zwFjSEme3xSxyf3z4eDxv64yesdqxsY_-XnMpqs5COQepj8-Eg4tEQHIvgqcFUxsLK5S6PGJKUT90AbbC9Fyf1x6RRSgVwUzYygRZcipDgCp6OX8B6SPesJYQ=w200-h200"></a>
+
+Finally, some deep water soloing in [Cala Varques](https://www.thecrag.com/climbing/spain/mallorca/area/123205926).

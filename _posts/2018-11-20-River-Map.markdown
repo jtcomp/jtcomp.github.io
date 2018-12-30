@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "A Laser Engraved River Map"
+title: "Wooden River Map"
 googlePhotoUrl: true
-img: https://lh3.googleusercontent.com/8Mnz8f5rrJX24E5P2e9TpL_h1ocRBUSzNKGBXqX4gDhIlO4JjBw-oAFjECcnUzStCq2M5Hv-HzLyVjZZU95OtqgnYAdcKltwaowHk4odWZGPHC3JfKXZ0KadV0ikLj507S82Mfdq7w=w400-h550
-img-small: https://lh3.googleusercontent.com/8Mnz8f5rrJX24E5P2e9TpL_h1ocRBUSzNKGBXqX4gDhIlO4JjBw-oAFjECcnUzStCq2M5Hv-HzLyVjZZU95OtqgnYAdcKltwaowHk4odWZGPHC3JfKXZ0KadV0ikLj507S82Mfdq7w=w400-h550
+img: https://lh3.googleusercontent.com/8Mnz8f5rrJX24E5P2e9TpL_h1ocRBUSzNKGBXqX4gDhIlO4JjBw-oAFjECcnUzStCq2M5Hv-HzLyVjZZU95OtqgnYAdcKltwaowHk4odWZGPHC3JfKXZ0KadV0ikLj507S82Mfdq7w=w2462-h2726
+img-small: https://lh3.googleusercontent.com/8Mnz8f5rrJX24E5P2e9TpL_h1ocRBUSzNKGBXqX4gDhIlO4JjBw-oAFjECcnUzStCq2M5Hv-HzLyVjZZU95OtqgnYAdcKltwaowHk4odWZGPHC3JfKXZ0KadV0ikLj507S82Mfdq7w=w300-h300
 date: 2018-11-09 12:53:00 +0300
 description: Creating a laser engraved river map
 tag: [Projects]
@@ -12,7 +12,7 @@ categories: Projects
 
 I wanted to create a minimalist map of the river systems of Wisconsin, inspired by [Nelson Minar's map](https://io9.gizmodo.com/a-map-of-all-the-rivers-in-the-united-states-and-nothi-513353739) of the United States. But I wanted to laser engrave it.
 
-I needed to strike a good balance with the level of detail I included to keep the map looking "full" without overdoint it. I would need extremely high resolution data.
+I needed to strike a good balance with the level of detail I included to keep the map looking "full" without overdoing it. I would need extremely high-resolution data.
 
 The Wisconsin DNR's [24K Hydro database](https://www.arcgis.com/home/item.html?id=cb1c7f75d14f42ee819a46894fd2e771) turned out to be the answer. I had to find the file on ARCGis because the DNR's links turned out to be broken. I didn't have access to any Esri software but [QGIS](https://www.qgis.org/en/site/) turned out to be a wonderfully well put together open source GIS tool.
 
@@ -26,7 +26,7 @@ Even still, these files were still massive and error prone in Illustrator. PDF g
 
 The final step, loading the file into the cutter turned out to be additionally problematic. The import software was prone to bugs with these files. I was trying to a massive amount of engraving, but the laser would randomly stop about 10 minutes into the cut. The staff had never seen it before. 
 
-I converted the entire file and cut it as a raster, but it didn't give the clean cut look I was going for. 
+I converted the entire file and cut it as a raster, but it didn't give the clean-cut look I was going for. 
 
 
 My solution was simplify the river geometry as much as possible to reduce the total number of vectors. This worked, and I created multiple prints with this method. 

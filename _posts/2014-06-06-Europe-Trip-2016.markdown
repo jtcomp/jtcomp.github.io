@@ -3,7 +3,7 @@ layout: post
 title: "Europe Tour"
 img: https://lh3.googleusercontent.com/UMIgeRjL3fySi8bc1pIPGWn8JJv9yQ4jRC0soQXKqp3d1KwQm1XdHSmrEghCWCY9iGXsCp_bVtSQl12csr1WLhcRU9EQ0334hSfEn_0xdrWsBSH3DPqKeU879GyTfDaMqgCxsNxylA=w2688-h1520
 googlePhotoUrl: true
-date: 2016-04-25 12:53:00 +0300
+date: 2016-06-06 12:53:00 +0300
 lat: "45.4408"
 lng: "12.3155" 
 zoom: 6

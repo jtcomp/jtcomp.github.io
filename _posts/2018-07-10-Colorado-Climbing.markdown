@@ -3,7 +3,7 @@ layout: post
 title: "Colorado Climbing"
 googlePhotoUrl: true
 img: https://lh3.googleusercontent.com/tGylFCawSY2ERGpgxZCO6J3jSQiomlHazrg_dI8_yJsXiqcUJuQ3cQPQNc_WkskEq9FYfl87zc14McW1zWbyNAfWVCTGqMJ0gxVK0f7sUuJg2C8dHrACAWv1tY9V1_BSN6eSbxe5Kg=w4032-h3024
-date: 2018-03-01 12:53:00 +0300
+date: 2018-07-10 12:53:00 +0300
 lat: "42.014984"
 lng: "-105.2705"
 zoom: 6

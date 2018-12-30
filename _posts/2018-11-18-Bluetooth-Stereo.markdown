@@ -3,6 +3,7 @@ layout: post
 title: "DIY Bluetooth Stereo"
 googlePhotoUrl: true
 img: https://lh3.googleusercontent.com/WJyjwhzpahRgF914p-QzMN2S-ci4yi2RE33S_WPQejAiAdltO5NGgJQxptUMP4nPgAQF0H0hR3KBVx1ARAP833KJxq-y40SrqJ67cdkw7CmO9gKaLueSCrRSoDRhuyOhG8e5UwkKrw=w4032-h3024
+img-small: https://lh3.googleusercontent.com/WJyjwhzpahRgF914p-QzMN2S-ci4yi2RE33S_WPQejAiAdltO5NGgJQxptUMP4nPgAQF0H0hR3KBVx1ARAP833KJxq-y40SrqJ67cdkw7CmO9gKaLueSCrRSoDRhuyOhG8e5UwkKrw
 date: 2018-11-18 12:53:00 +0300
 description: Bluetooth for Honda Stereo
 tag: [Projects]

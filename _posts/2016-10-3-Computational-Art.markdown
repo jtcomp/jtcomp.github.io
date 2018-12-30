@@ -2,6 +2,7 @@
 layout: post
 title: "Computational Art"
 img: https://lh3.googleusercontent.com/BGKUb7xLGT1xu5eeNDJ1dmlZxur2Kyl9sz2DW7aXjueLEY8wojqyFn7TUckHyDTvvhQdvaIz-o69c0TORJdw_FoCuxTr2Ox1ontY1OoEi-Q1Drc4d9Rit2gTqakJkFCZoLYhJUG3fQ=w1000-h1000
+img-small: https://lh3.googleusercontent.com/BGKUb7xLGT1xu5eeNDJ1dmlZxur2Kyl9sz2DW7aXjueLEY8wojqyFn7TUckHyDTvvhQdvaIz-o69c0TORJdw_FoCuxTr2Ox1ontY1OoEi-Q1Drc4d9Rit2gTqakJkFCZoLYhJUG3fQ
 googlePhotoUrl: true
 date: 2016-10-03 12:53:00 +0300
 description: "Various computational art"

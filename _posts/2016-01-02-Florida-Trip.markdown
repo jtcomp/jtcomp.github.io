@@ -2,6 +2,7 @@
 layout: post
 title: "Habitat in Florida"
 img: https://lh3.googleusercontent.com/l1rdA0aYvTCBY57AMw5llcEf5dTAXRCZk4vueayTTviMn959xzfb7HeefhXpl-sKV1wOLx0fPhdvVXnoiIVt7hUJzZFWc6bwRzrcJBj3jq7uW8gC5zu-4SRgGd62dMNP8CngNUAF_w=w3264-h1836
+img-small: https://lh3.googleusercontent.com/l1rdA0aYvTCBY57AMw5llcEf5dTAXRCZk4vueayTTviMn959xzfb7HeefhXpl-sKV1wOLx0fPhdvVXnoiIVt7hUJzZFWc6bwRzrcJBj3jq7uW8gC5zu-4SRgGd62dMNP8CngNUAF_w
 googlePhotoUrl: true
 date: 2016-01-02 12:53:00 +0300
 lat: "25.286"

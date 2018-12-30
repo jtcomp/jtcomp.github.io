@@ -3,6 +3,7 @@ layout: post
 title: "Embedded Gallery with Google Photos"
 googlePhotoUrl: true
 img: https://lh3.googleusercontent.com/H8YFPvv-1FVlQcEXvxQLcS60C8ZY-9X7XA3-TG7s5yGKtGMY9PrmzRqO67R7xe8tF8K95O03HWBhywPyOZeG3Gw2y1AnGu1NJI8PfT19umaHmCvwbSUs_mvRSx6E40Qbd0COmTS_0A=w3888-h2592
+img-small: https://lh3.googleusercontent.com/H8YFPvv-1FVlQcEXvxQLcS60C8ZY-9X7XA3-TG7s5yGKtGMY9PrmzRqO67R7xe8tF8K95O03HWBhywPyOZeG3Gw2y1AnGu1NJI8PfT19umaHmCvwbSUs_mvRSx6E40Qbd0COmTS_0A
 date: 2018-10-08 12:53:00 +0300
 description: No-local-storage
 tag: [Projects]

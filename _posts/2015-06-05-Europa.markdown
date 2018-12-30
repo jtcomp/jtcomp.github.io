@@ -2,6 +2,7 @@
 layout: post
 title: "Europa"
 img: https://lh3.googleusercontent.com/soEmew3Bdvwe5q_WUozYkRM7AzJ1p83-AwDv7iSZqvpMP8bRkRpbIxf95IQzmjhMu9bpSfzCqF5YEA29GOa1lXEaVmXfwBW7akthrOH5PEr6MU1VkWOlrkGlg3X1Y7DBKtcgxDPskg=w530-h746
+img-small: https://lh3.googleusercontent.com/soEmew3Bdvwe5q_WUozYkRM7AzJ1p83-AwDv7iSZqvpMP8bRkRpbIxf95IQzmjhMu9bpSfzCqF5YEA29GOa1lXEaVmXfwBW7akthrOH5PEr6MU1VkWOlrkGlg3X1Y7DBKtcgxDPskg
 googlePhotoUrl: true
 date: 2015-06-05 12:53:00 +0300
 description: "Old Art from high school"

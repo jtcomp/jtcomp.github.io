@@ -3,7 +3,7 @@ layout: post
 title: "Laser Lamp"
 googlePhotoUrl: true
 img: https://lh3.googleusercontent.com/sGmP8ksaIejV8Ln2TGUYJz0f2jAo3-QwZGsWv2X7rxwbHddYwhUHcgy7_SE2mHg9U4dc1xorkXV7H0SCh4r6Wlj1pZTn6ei3xaa6-hc7P13_Xom_ADuoJSlXOmiUc0z1WRjuA405Tw=w3024-h4032
-img-small: https://lh3.googleusercontent.com/sGmP8ksaIejV8Ln2TGUYJz0f2jAo3-QwZGsWv2X7rxwbHddYwhUHcgy7_SE2mHg9U4dc1xorkXV7H0SCh4r6Wlj1pZTn6ei3xaa6-hc7P13_Xom_ADuoJSlXOmiUc0z1WRjuA405Tw=w300-h400
+img-small: https://lh3.googleusercontent.com/sGmP8ksaIejV8Ln2TGUYJz0f2jAo3-QwZGsWv2X7rxwbHddYwhUHcgy7_SE2mHg9U4dc1xorkXV7H0SCh4r6Wlj1pZTn6ei3xaa6-hc7P13_Xom_ADuoJSlXOmiUc0z1WRjuA405Tw
 date: 2018-12-21 12:53:00 +0300
 description: Creating a laser engraved lamp
 tag: [Art]

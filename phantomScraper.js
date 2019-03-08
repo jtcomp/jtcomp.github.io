@@ -4,6 +4,22 @@ var argv = require('minimist')(process.argv.slice(2));
 
 var verbose = false;
 
+if (argv.help) {
+	console.log("======Phantom Scraper Help:======") ;
+	
+	console.log("Link Structure:\n<!–autogen--album--<link>--album--end->") ;
+	
+	console.log("Arguments:\nw\t(int)\tprovides for width of thumbnails") ;
+	console.log("h\t(int)\tprovides for height of thumbnails") ;
+	console.log("max\t(int)\tprovides for maximum size of full images") ;
+	
+	console.log("=================================") ;
+}
+
+if (!argv.w) {
+	argv.w = 250;
+}
+
 if (!argv.w) {
 	argv.w = 250;
 }
